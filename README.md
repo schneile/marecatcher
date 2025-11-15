@@ -21,7 +21,7 @@ Make sure you have gallery-dl installed and properly configured before using thi
 
 ## How to Use
 
-1. **Download** the script (`marecatcher.sh`) below or from the repository.  
+1. **Download** the script from the repository.  
 2. **Place** it in the folder where you want the downloaded files to be saved.
 3. **Edit** the links in the Script with nano or vim and change the `https://yourlink.here` URL's to your desired ones.
 ```
