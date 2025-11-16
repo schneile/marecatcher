@@ -35,7 +35,7 @@ urls=(
 ```
 5. **Open** a shell in that same folder.  
 6. Make the script executable: `chmod +x ./marecatcher.sh`
-7. Execute the script with: `./marecatcher.sh`
+7. Execute the script with: `./marecatcherclassic.sh`
 
 _Small bonus tip: Make sure to run the script inside a tmux or screen session so it doesn’t get terminated when you close the terminal._
 
